@@ -1,0 +1,359 @@
+- certName: "Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge v3 (CCSKv3)"
+  certLogo: "assets/img/certification-logos/ccsk-logo.svg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: 241455593941
+  certVerificationURL: https://ccsk.cloudsecurityalliance.org/en
+
+- certName: "Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge v4 (CCSKv4)"
+  certLogo: "assets/img/certification-logos/ccsk-logo.svg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: HxDsbXcPt8vK6fnxcAgNRZPH
+  certVerificationURL: https://ccsk.cloudsecurityalliance.org/en
+
+- certName: "CompTIA A+"
+  certLogo: "assets/img/certification-logos/comptia-a.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA A+ certification are proven problem solvers who are able to
+    perform critical IT support tasks including device configuration, data backup and
+    recovery, and operating system configuration. CompTIA A+ certified professionals
+    have demonstrated baseline security skills for IT support roles and are able to
+    detect and remove malware, address privacy concerns, and troubleshoot core
+    service challenges.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Cybersecurity Analyst (CySA+)"
+  certLogo: "assets/img/certification-logos/comptia-cysa.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA CySA+ certification have the skills, knowledge, and ability
+    to address security analytics, intrusion detection and response. CompTIA
+    CySA+ analysts have demonstrated the ability to perform data analysis and
+    interpret the results to identify vulnerabilities, threats and risks to an
+    organization and the skills to secure and protect the systems.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA IT Operations Specialist (CIOS)"
+  certLogo: "assets/img/certification-logos/comptia-cios.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA IT Operations Specialist (CIOS) certification have the ability
+    to manage the flow of a workplace and optimize day-to-day activities. These IT
+    operations specialists have demonstrated the ability to analyze business operations
+    and identify customer needs.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Linux+"
+  certLogo: "assets/img/certification-logos/comptia-linux.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA Linux+ certification have the knowledge and skills required to
+    succeed as a system administrator supporting Linux systems. CompTIA Linux+ administrators
+    have demonstrated the ability to configure the system, navigate the command line, and use
+    common package management systems.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Linux Network Professional (CLNP)"
+  certLogo: "assets/img/certification-logos/comptia-clnp.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA Linux Network Professional (CLNP) certification are
+    Linux network professionals that are able to provide hands-on support and to
+    monitor critical internal and client systems.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Network+"
+  certLogo: "assets/img/certification-logos/comptia-network.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA Network+ certification have the skills needed to troubleshoot,
+    configure, and manage wired and wireless networks found in companies around the world.
+    CompTIA Network+ professionals have demonstrated the ability to design and implement
+    functional networks, configure, manage, and maintain essential network devices,
+    implement network security, and troubleshoot network problems.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Project+"
+  certLogo: "assets/img/certification-logos/comptia-project.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA Project+ certification understand the basic concepts to
+    successfully manage small- to medium-sized projects. These business professionals
+    have demonstrated the knowledge and skills required to manage a project lifecycle,
+    ensure proper communication, manage resources and stakeholders and maintain project
+    documentation.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Secure Infrastructure Specialist (CSIS)"
+  certLogo: "assets/img/certification-logos/comptia-csis.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA Secure Infrastructure Specialist (CSIS) certification have the
+    knowledge and skill required to support hardware and software systems. These secure
+    infrastructure specialists will also be able to protect an organization’s assets
+    from internal and external threats.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Security+"
+  certLogo: "assets/img/certification-logos/comptia-security.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA Security+ certification have the knowledge and skills
+    necessary to perform core security functions required of any cybersecurity role.
+    CompTIA Security+ professionals know how to identify and address potential threats,
+    attacks and vulnerabilities and they have established techniques in risk
+    management, risk mitigation, threat management and intrusion detection.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Security Analytics Professional (CSAP)"
+  certLogo: "assets/img/certification-logos/comptia-csap.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA Security Analytics Professional (CSAP) are security analytics
+    professional that have the ability to plan and carry out security measures to protect
+    an organization’s computer networks and systems.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Systems Support Specialist (CSSS)"
+  certLogo: "assets/img/certification-logos/comptia-csss.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the CompTIA Systems Support Specialist (CSSS) certification are systems
+    support specialists responsible for all aspects of help desk support and technical
+    assistance. These specialists have demonstrated the ability to address a variety
+    of user issues, including troubleshooting software, hardware and networks.
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CrowdStrike Certified Falcon Administrator (CCFA)"
+  certLogo: "assets/img/certification-logos/crowdstrike-ccfa.png"
+  certURL: someurl.com
+  certDescription: |
+    CrowdStrike Certified Falcon Administrators effectively manage the Falcon platform
+    based on the risk profile of your business, including effective user management,
+    deploying and managing the Falcon sensor, configuring deployment and prevention policies
+    based on business risk, configuring allowlists, blocklists, and file-path exclusions, and
+    conducting administrative reporting.
+  certNumber: CCFA-82287090
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+
+
+#DoD Computer Network Defense
+#DoD Computer Network Defense Service Provider Auditor (CNDSP-Auditor, CND-AU)
+
+
+- certName: "Google IT Support Professional Certificate"
+  certLogo: "assets/img/certification-logos/google-it-support.png"
+  certURL: someurl.com
+  certDescription: |
+    Covered topics such as network protocols, cloud computing, Windows operating system,
+    Linux command line, systems administration, encryption algorithms and techniques,
+    and more. 
+  certNumber: "N/A"
+  certVerificationURL: ""
+
+- certName: "ISACA Certified Information Systems Auditor (CISA)"
+  certLogo: "assets/img/certification-logos/isaca-cisa.png"
+  certURL: someurl.com
+  certDescription: |
+    The CISA certification is world-renowned as the standard of achievement for those who
+    audit, control, monitor and assess an organization’s information technology and
+    business systems.
+  certNumber: "N/A"
+  certVerificationURL: "https://www.isaca.org/credentialing/cisa"
+
+- certName: "ISACA Certified Information Systems Manager (CISM)"
+  certLogo: "assets/img/certification-logos/isaca-cism.png"
+  certURL: someurl.com
+  certDescription: |
+    The management-focused CISM is the globally accepted standard for individuals who design,
+    build and manage enterprise information security programs.
+  certNumber: "N/A"
+  certVerificationURL: "https://www.isaca.org/credentialing/cism"
+
+- certName: "ISC2 Certified Authorization Professional (CAP)"
+  certLogo: "assets/img/certification-logos/isc2-cap.png"
+  certURL: someurl.com
+  certDescription: |
+    The vendor-neutral CAP credential confirms knowledge, skill, and experience required
+    for authorizing and maintaining information systems within the new Risk Management
+    Framework as outlined in NIST SP 800-37 Rev 1. CAP validates that an authorization
+    professional has the competence to ensure that information systems possess security
+    commensurate with the level of exposure to potential risk, as well as damage to
+    assets or individuals.
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Certified Information Systems Security Professional (CISSP)"
+  certLogo: "assets/img/certification-logos/isc2-cissp.png"
+  certURL: someurl.com
+  certDescription: |
+    The vendor-neutral CISSP credential confirms technical knowledge and experience to design,
+    engineer, implement, and manage the overall security posture of an organization.
+    Required by the world’s most security-conscious organizations, CISSP is the gold-standard
+    information security certification that assures information security leaders possess the
+    breadth and depth of knowledge to establish holistic security programs that protect
+    against threats in an increasingly complex cyber world.
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Information Systems Security Architecture Professional (CISSP-ISSAP)"
+  certLogo: "assets/img/certification-logos/cissp-issap.png"
+  certURL: someurl.com
+  certDescription: |
+    The vendor-neutral CISSP-ISSAP credential confirms a CISSP’s specialized knowledge
+    and experience in designing security solutions and providing management with risk-based
+    guidance to meet organizational goals.
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Information Systems Security Engineering Professional (CISSP-ISSEP)"
+  certLogo: "assets/img/certification-logos/cissp-issep.png"
+  certURL: someurl.com
+  certDescription: |
+    The vendor-neutral CISSP-ISSEP credential confirms a CISSP’s specialized knowledge
+    and experience in the practical application of systems engineering principles and
+    processes to develop secure systems.
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Information Systems Security Management Professional (CISSP-ISSMP)"
+  certLogo: "assets/img/certification-logos/cissp-issmp.png"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Secure Software Practitioner - Java"
+  certLogo: "assets/img/certification-logos/isc2-secure-java.png"
+  certURL: someurl.com
+  certDescription: |
+    Validates the foundational skills to write more secure software and reduce
+    vulnerabilities and re-work. This certificate requires knowledge of secure
+    software concepts, secure software design, OWASP top 10, secure software
+    coding, and defending Java.
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Systems Security Certified Practitioner (SSCP)"
+  certLogo: "assets/img/certification-logos/isc2-sscp.png"
+  certURL: someurl.com
+  certDescription: |
+    The vendor-neutral SSCP credential confirms deep technical knowledge and competency
+    in implementing, monitoring, and administering IT Infrastructure in accordance
+    with information security policies and requirements across the organization.
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ITIL 4 Foundation"
+  certLogo: "assets/img/certification-logos/itil4-foundation.png"
+  certURL: someurl.com
+  certDescription: |
+    ITIL 4 provides a flexible foundation for organizations that need to integrate various
+    frameworks and approaches into their service management operating models. ITIL 4 aims
+    to help businesses navigate the new technological era of digital services.
+  certNumber: "9980079617425315"
+  certVerificationURL: "https://www.axelos.com/certifications/itil-certifications"
+
+- certName: "NVIDIA Certificate of Competency, Fundamentals of Deep Learning for Computer Vision"
+  certLogo: "assets/img/certification-logos/nvidia-logo.jpg"
+  certURL: someurl.com
+  certDescription: |
+    Built and deployed deep learning applications for image classification
+    and object detection, modifying neural networks to improve their accuracy
+    and performance, and implementing learned techniques on a final project.
+  certNumber: "5c7cf7a2c29e4c9bada9fa618d73a8c4"
+  certVerificationURL: "https://courses.nvidia.com/certificates/5c7cf7a2c29e4c9bada9fa618d73a8c4"
+
+- certName: "PMI Agile Certified Practitioner (PMI-ACP)"
+  certLogo: "assets/img/certification-logos/pmi-acp.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the globally-recognized PMI Agile Certified Practitioner
+    (PMI-ACP) have demonstrated their knowledge and skills in agile practices,
+    tools and techniques that are applicable across virtually any industry and
+    methodology. Earners have demonstrated their knowledge and experience with
+    agile principles and mindset, value-driven delivery, stakeholder engagement,
+    team performance, adaptive planning, problem detection and resolution, and
+    continuous improvement.
+  certNumber: "2118663"
+  certVerificationURL: "https://certification.pmi.org/registry.aspx"
+
+- certName: "PMI Project Management Professional (PMP)"
+  certLogo: "assets/img/certification-logos/pmi-pmp.png"
+  certURL: someurl.com
+  certDescription: |
+    Earners of the globally-recognized Project Management Professional (PMP) have demonstrated
+    their extensive knowledge and mastery of project management concepts, tasks, and techniques
+    that are applicable across virtually any industry and methodology. Earners are able to
+    speak and understand the global language of project management. Individuals that earn
+    this certification have demonstrated the knowledge and skills needed to initiate,
+    plan, execute, monitor and control, and close a project.
+  certNumber: "2118663"
+  certVerificationURL: "https://certification.pmi.org/registry.aspx"
+
+- certName: "ScrumAlliance Certified Scrum Master (CSM)"
+  certLogo: "assets/img/certification-logos/scrumalliance-csm.png"
+  certURL: someurl.com
+  certDescription: |
+    A Scrum Master is the Scrum team member tasked with fostering an effective and
+    productive working environment and guiding others to understand Scrum values,
+    principles and practices. Scrum Masters tend to be people-oriented, have a
+    high level of emotional intelligence, and find joy in helping team members to grow.
+  certNumber: "715553"
+  certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"
+
+- certName: "ScrumAlliance Certified Scrum Product Owner (CSPO)"
+  certLogo: "assets/img/certification-logos/scrumalliance-cspo.png"
+  certURL: someurl.com
+  certDescription: |
+    A Certified Scrum Product Owner® is responsible for maximizing the value of the 
+    product resulting from work of the Development Team. 
+    
+    While the Scrum Master helps the Scrum Team work together to learn and implement Scrum, the Product Owner
+    creates a product vision, order the product backlog, and makes sure the best
+    possible job is done to delight the customers and other stakeholders.
+  certNumber: "715553"
+  certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"
+
+- certName: "ScrumAlliance Certified Scrum Professional (CSP)"
+  certLogo: "assets/img/certification-logos/scrumalliance-csp.png"
+  certURL: someurl.com
+  certDescription: |
+    The CSP is an advanced certification that indicates the recipient is both knowledgeable and
+    experienced in the practical and theoretical use of Scrum.
+  certNumber: "715553"
+  certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"
+
+- certName: "ScrumAlliance Certified Scrum Professional - Product Owner (CSP-PO)"
+  certLogo: "assets/img/certification-logos/scrumalliance-csp-po.png"
+  certURL: someurl.com
+  certDescription: |
+    The Certified Scrum Professional-Product Owner (CSP-PO) certification demonstrates an understanding
+    of advanced stakeholder discussion; funding and financing; customer development; product launches;
+    and, advanced product discovery.
+  certNumber: "715553"
+  certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"
+
+- certName: "ScrumAlliance Certified Scrum Professional - Scrum Master (CSP-SM)"
+  certLogo: "assets/img/certification-logos/scrumalliance-csp-sm.png"
+  certURL: someurl.com
+  certDescription: |
+    Certified Scrum Professional-Scrum Master represents the culmination of the
+    path to Certified Scrum Professional (CSP) program and the highest-level
+    accreditation that Scrum Alliance offers to become a Professional Scrum Master.
+  certNumber: "715553"
+  certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"

@@ -1,0 +1,172 @@
+- title: "2019 Pinnacle Awards: Cybersecurity Industry Exec of the Year Shawn Wells, Red Hat"
+  img: "img/media-logos/WashExecLogo.jpg"
+  url: https://washingtonexec.com/2019/11/2019-pinnacle-awards-cybersecurity-industry-exec-of-the-year-shawn-wells-red-hat/#.YJiLmqLYpPV
+  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
+    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
+  author: STAFF WRITER
+  published: 2019-11-12
+  outlet: WashingtonExec Magazine
+  type: press
+
+- title: "GovLoop’s Talking Transformation: Cyber Trends"
+  img: assets/img/GovMattersLogo.png
+  url: https://govmatters.tv/govloops-talking-transformation-cyber-trends/
+  description: "The U.S is on the cutting edge of technology. Find out what’s on the horizon from government and industry professionals."
+  author: Francis Rose
+  published: 2019-07-15
+  outlet: GovMatters TV
+  type: tv
+
+- title: "Enabling the cyber workforce through the Open Organization"
+  img: assets/img/wtopnewslogo.jpg
+  url: https://wtop.com/open-first/2018/11/enabling-the-cyber-workforce-through-the-open-organization/
+  description: "Cyber professionals must not only be trained with the proper skill sets, they must be empowered and motivated to move beyond traditional role-based jobs to concentrate on mission-focused outcomes."
+  author: STAFF WRITER
+  published: 2018-11-02
+  outlet: WTOP News
+  type: press
+
+- title: How States Need to Tackle Cybersecurity
+  img: assets/img/StateTechLogo.png
+  url: https://statetechmagazine.com/article/2018/10/how-states-need-tackle-cybersecurity
+  description: "State CIOs can save millions and enhance IT security by applying the federal government’s cybersecurity practices."
+  author: Shawn Wells
+  published: 2018-10-31
+  outlet: State Tech Magazine
+  type: press
+
+- title: Navigating the Cybersecurity Cyclone
+  img: assets/img/CivSourceLogo.png
+  url: https://civsourceonline.com/2018/10/04/the-gallery-navigating-the-cybersecurity-cyclone/
+  description: "Hurricane season is upon us, and many state and local governments are preparing their emergency response teams. But even as agencies prepare for high winds and flooding rains, they are already feeling the effects of a different type of storm: a cybersecurity cyclone that has been gathering steam for years and is now right at their doorsteps."
+  author: Shawn Wells
+  published: 2018-10-04
+  outlet: CivSource Online
+  type: press
+
+- title: The Value of Cybersecurity Standards At All Levels of Government
+  img: assets/img/govlooplogo.png
+  url: https://www.govloop.com/value-cybersecurity-standards-levels-government/
+  description: ""
+  author: Mark Hensch
+  published: 2018-07-26
+  outlet: GovLoop
+  type: press
+
+- title: How Federal Cybersecurity Standards Reach State, Local Governments. An interview with Shawn Wells (page 17)
+  img: assets/img/govlooplogo.png
+  url: https://go.govloop.com/rs/231-DWB-776/images/Key-Advancements-in-Government-Cybersecurity.pdf
+  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
+    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
+  author: GovLoop
+  published: 2018-07-26
+  outlet: GovLoop
+  type: press
+
+- title: Immutable infrastructure can ease agencies into agile, DevOps
+  img: assets/img/wtopnewslogo.jpg
+  url: https://wtop.com/open-first/2017/10/immutable-infrastructure-can-ease-agencies-agile-devops/
+  description: "Automation is a key technology helping IT organizations deploy, take apart, and reload technologies into production without human intervention.  But once technology is deployed, federal managers want to make sure that systems can’t be misconfigured and infrastructure components aren’t altered once they have been approved."
+  author: WFED
+  published: 2017-10-11
+  outlet: WTOP News
+  type: press
+
+- title: The New Era of Digital Security
+  img: assets/img/govlooplogo.png
+  url: https://www.govloop.com/new-era-digital-security/
+  description: "As citizens demand digital access and more software is delivered as a service, government organizations need new technologies to offer these services. But adopting them makes security and regulatory compliance more difficult. In addition, securing devices and infrastructure that are outside of your environment is a key challenge."
+  author: Catherine Andrews
+  published: 2017-07-12
+  outlet: GovLoop
+  type: press
+
+- title: Changing the Open Hybrid Cloud Game
+  img: assets/img/govlooplogo.png
+  url: https://www.govloop.com/changing-open-hybrid-cloud-game/
+  description: "In GovLoop’s Gov Security in a Digital World Virtual Summit, Harold Wong, Cloud Architect at Microsoft and Shawn Wells, Chief Security Strategist in Red Hat’s Public Sector, teamed up to provide architectural guidance on deploying Red Hat OpenShift Container Platform in Azure Government, which is a hybrid cloud solution."
+  author: Francesca El-Attrash
+  published: 2017-07-12
+  outlet: GovLoop
+  type: press
+
+- title: Red Hat’s Shawn Wells on Federal Cybersecurity
+  img: assets/img/fedscooplogo.png
+  url: https://www.fedscoop.com/video/red-hats-shawn-wells-federal-cybersecurity/
+  description: "Television inteview during the Security Through Innovation Summit"
+  author: Billy Mitchell
+  published: 2017-05-16
+  outlet: FedScoop TV
+  type: tv
+
+- title: Why Compliance Demands a DevOps Approach
+  img: assets/img/fcwlogo.jpg
+  url: ahttps://fcw.com/articles/2017/04/28/comment-devops-compliance.aspxsd
+  description: "This classic “waterfall” approach to the creation of security and compliance procedures is in direct contrast to the fast and agile DevOps approach to application development that many agencies embrace today."
+  author: Shawn Wells
+  published: 2017-04-28
+  outlet: FCW Magazine
+  type: press
+
+- title: When Hackers Corrupt GPS Data
+  img: assets/img/signal_logo.jpg
+  url: https://www.afcea.org/content/Blog-when-hackers-corrupt-gps-data
+  description: "When a hacker talks about a novel way to disrupt the power grid, people listen. At least that was the case on day two of the AFCEA TechNet Augusta conference taking place in Augusta, Georgia."
+  author: George Seffers
+  published: 2016-08-03
+  outlet: SIGNAL Magazine
+  type: press
+
+- title: Facing the Truth on Cyber
+  img: assets/img/signal_logo.jpg
+  url: https://www.afcea.org/content/Article-facing-truth-cyber
+  description: "On day two of the AFCEA TechNet Augusta conference, cyber experts from across the military and industry openly and bluntly discussed the challenges of cybersecurity."
+  author: George Seffers
+  published: 2016-08-03
+  outlet: SIGNAL Magazine
+  type: press
+
+- title: Secure Cloud Computing Progress & Best Practices
+  img: assets/img/wtopnewslogo.jpg
+  url: 
+  description: "Federal News Radio Interview"
+  author: WTOP
+  published: 2015-05-15
+  outlet: WTOP News
+  type: radio
+
+- title: FCW Rising Star Award
+  img: assets/img/fcwlogo.jpg
+  url: https://fcw.com/articles/2014/11/30/rising-star_wells-shawn.aspx
+  description: "When Shawn Wells, director of innovation programs for Red Hat's U.S. public-sector group, wrote a security guide for the open-source Security Content Automation Protocol, he was moving forward on an idea that most people weren't even talking about yet."
+  author: Colby Hochmuth
+  published: 2014-11-30
+  outlet: FCW Magazine
+  type: press
+
+- title: "2014: Year of Open Source Miracles"
+  img: assets/img/opensourcecomlogo.svg
+  url: https://opensource.com/government/14/11/open-source-software-security-vulnerabilities
+  description: "Open source software is still software and vulnerabilities are expected. Unlike a filesystem bug or a kernel panic, they cause no pain until they strike."
+  author: Gunnar Hellekson
+  published: 2014-11-25
+  outlet: opensource.com
+  type: press
+
+- title: Big Savings with Multi-level Security in Altair PBS Pro
+  img: assets/img/insidehpclogo.png
+  url: https://insidehpc.com/2013/12/big-savings-multi-level-security-altair-pbs-pro/
+  description: "In this video from SC13, Shawn Wells from Red Hat, Inc. describes how the company’s MLS technology works in PBS Professional."
+  author: Doug Black
+  published: 2013-12-02
+  outlet: Inside HPC Magazine
+  type: press
+
+- title: "iTEN Wired 2013 Interview: Shawn Wells of Red Hat"
+  img: assets/img/itenwiredlogo.jpg
+  url: https://www.youtube.com/watch?v=AbiyPCExi3E
+  description: "Interview: Shawn Wells of Red Hat and morning keynote speaker."
+  author: ITEN WIRED
+  published: 2015-01-21
+  outlet: iTEN Wired
+  type: press
