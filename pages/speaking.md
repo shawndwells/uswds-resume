@@ -1,7 +1,7 @@
 ---
 permalink: /public-speaking/
 
-layout: post
+layout: page
 title: Public Speaking
 category: CV
 description: Televised interviews, radio and podcasts, and conferences.

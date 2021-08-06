@@ -1,7 +1,7 @@
 ---
 permalink: /writing/
 
-layout: post
+layout: page
 title: Writing
 category: CV
 description: "Co-author of two published books, with the *OpenShift Security Guide* debuting as #1 in Information Technology on Amazon.com in 2020."
@@ -11,13 +11,14 @@ redirect_from:
 ---
 
 ## OpenShift Security Guide
+#### Published April 2020
   <div class="">
     <div class="grid-row">
       <div class="tablet:grid-col-7">
         <div class="">
           <p>Brought 28 people together to write the first book about OpenShift security capabilities. 300+ pages, 60,000 words, and two
-		  weeks later, the <i>OpenShift Security Guide</i> debuted on as #1 in the "Information Technology"
-		  category on Amazon.com.</p>
+		  weeks later, the <i>OpenShift Security Guide</i> <b>debuted on as #1 in the "Information Technology"
+		  category on Amazon.com in April 2020</b>.</p>
 		  <p>The book identified approaches that aid in the triaging of security trade-offs and risk, policy enforcement, reporting, and the validation of system configuration. Cloud infrastructure and security engineering roles are central to establishing and preserving security postures. It is the book’s intent to support these roles by providing the proper mixture of conceptual, organizational, and technical guidance, thereby increasing the security vigilance and effectiveness of those with such responsibilities.</p>
 		  <p>
 		    <ul>
@@ -41,7 +42,8 @@ redirect_from:
 
   {:.border-top-05.border-primary.padding-top-3.margin-top-6}
 
-## OpenStack Security Guide 
+## OpenStack Security Guide
+#### Published June 2013
   <div class="">
     <div class="grid-row">
       <div class="tablet:grid-col-7">
@@ -50,15 +52,13 @@ redirect_from:
 			and the sheer complexity of large deployments, OpenStack security information
 			was decentralized and obsoleted every one or two releases (case in point: Nova
 			networking vs <del>Quantum</del> Neutron). To aid the community and provide
-			practical hardening guidance, the <a
-			href="https://launchpad.net/~openstack-ossg" target="_blank">OpenStack
-			Security Special Interest Group (Security SIG)</a> aspired to create a book that would assist
-			OpenStack administrators in hardening their installations.
+			practical hardening guidance, we (the co-authors) <b>aspired to create a book that would assist
+			OpenStack administrators in hardening their installations</b>.
 		  </p>
 		  <p>
 		    <ul>
-			  <li>Today, the book lives on as <a href="https://docs.openstack.org/security-guide/" target="_new">https://docs.openstack.org/security-guide/</a></li>
-			  <li>Creation of the book was <a href="https://computerweekly.com/blog/Open-Source-Insider/NSA-joint-author-on-OpenStack-Security-Guidebook" target="_new">covered by ComputerWeekly.com</a>.</li>
+			  <li>Today, the book lives on as an open source project. Latest versions are accessible at <a href="https://docs.openstack.org/security-guide/" target="_new">https://docs.openstack.org/security-guide/</a></li>
+			  <li>Creation of the book <a href="https://computerweekly.com/blog/Open-Source-Insider/NSA-joint-author-on-OpenStack-Security-Guidebook" target="_new">received media attention by ComputerWeekly.com</a>.</li>
 			</ul>
 		   </p>
         </div>

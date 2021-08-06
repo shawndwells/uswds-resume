@@ -2,10 +2,10 @@
 
 - rel: shortcut icon
   type: image/ico
-  href: /assets/img/crowdstrike-logo.svg
+  href: ""
 - rel: icon
   type: image/png
-  href: /assets/img/crowdstrike-logo.svg
+  href: ""
 #- rel: icon
 #  type: image/png
 #  sizes: 192x192

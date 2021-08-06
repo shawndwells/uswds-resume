@@ -1,9 +1,9 @@
 ---
 title: Curriculum Vitae
 description: Guidance for Contributing to CrowdStrike Open Source Projects
-permalink: /resume/
+permalink: /
 
-layout: post
+layout: page
 #sidenav: contributing
 subnav:
   - text: Welcome
@@ -14,6 +14,9 @@ subnav:
     href: '#where-can-i-go-for-help'
   - text: What does the Code of Conduct mean for me?
     href: '#what-does-the-code-of-conduct-mean-for-me'
+
+redirect_from:
+  - /resume/
 ---
 
 {:.border-top-05.border-primary.padding-top-2.margin-top-2.margin-bottom-3}

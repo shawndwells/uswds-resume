@@ -3,7 +3,7 @@ title: Open Source Policy
 description: This is a documentation page.
 permalink: /open-source-policy/
 
-layout: post
+layout: page
 sidenav: open-source-policy
 subnav:
   - text: CrowdStrike Engineering
