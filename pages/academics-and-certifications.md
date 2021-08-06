@@ -69,7 +69,7 @@ subnav:
 <ul class="usa-card-group">
 {% for degree in site.data.postgrad %}
 {% assign tags = component.tags | join: " " %}
-  <li class="tablet:grid-col-6 usa-card usa-card--flag">
+  <li class="tablet:grid-col-10 usa-card usa-card--flag">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading">{{ degree.degreeName }}</h2>
@@ -99,7 +99,7 @@ subnav:
 <ul class="usa-card-group">
 {% for degree in site.data.undergrad %}
 {% assign tags = component.tags | join: " " %}
-  <li class="tablet:grid-col-6 usa-card usa-card--flag">
+  <li class="tablet:grid-col-12 usa-card usa-card--flag">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading">{{ degree.degreeName }}</h2>
@@ -128,7 +128,7 @@ subnav:
 <ul class="usa-card-group">
 {% for cert in site.data.certifications %}
 {% assign tags = component.tags | join: " " %}
-  <li class="tablet:grid-col-6 usa-card usa-card--flag">
+  <li class="tablet:grid-col-10 usa-card usa-card--flag">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading">{{ cert.certName }}</h2>
@@ -158,7 +158,7 @@ subnav:
 <ul class="usa-card-group">
 {% for rating in site.data.gov-ratings %}
 {% assign tags = component.tags | join: " " %}
-  <li class="tablet:grid-col-6 usa-card usa-card--flag">
+  <li class="tablet:grid-col-10 usa-card usa-card--flag">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading">{{ rating.ratingName }}</h2>
