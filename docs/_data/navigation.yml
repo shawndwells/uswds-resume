@@ -12,14 +12,16 @@
 #   links: primary
 #
 primary:
-  - text: Home
-    href: /
-  - text: Open Source Policy
-    href: /open-source-policy
-  - text: Contributing
-    href: /contributing
-  - text: Code of Conduct
-    href: /code-of-conduct/
+  - text: Curriculum Vitae
+    href: /resume/
+  - text: Writing
+    href: /writing/
+  - text: Speaking
+    href: /public-speaking/
+  - text: Press & Media
+    href: /press-and-media/
+  - text: Academics & Certifications
+    href: /academics-and-certifications/
 
 #      - text: Demo link C
 #        href: /two/c/
@@ -59,6 +61,18 @@ contributing:
     href: /contributing/
   - text: Code of Conduct
     href: /code-of-conduct/
+
+cv:
+  - text: Curriculum Vitae
+    href: /resume/
+  - text: Writing
+    href: /writing/
+  - text: Speaking
+    href: /public-speaking/
+  - text: Press & Media
+    href: /press-and-media/
+  - text: Academics & Certifications
+    href: /academics-and-certifications/
 
 # Uncomment the 'links' sections below to use footer link columns
 # with the 'big' footer style.

@@ -1,0 +1,26 @@
+- title: "GovLoop’s Talking Transformation: Cyber Trends"
+  img: assets/img/GovMattersLogo.png
+  url: https://govmatters.tv/govloops-talking-transformation-cyber-trends/
+  description: "The U.S is on the cutting edge of technology. Find out what’s on the horizon from government and industry professionals."
+  author: Francis Rose
+  published: 2019-07-15
+  outlet: GovMatters TV
+  type: tv
+
+- title: Red Hat’s Shawn Wells on Federal Cybersecurity
+  img: assets/img/fedscooplogo.png
+  url: https://www.fedscoop.com/video/red-hats-shawn-wells-federal-cybersecurity/
+  description: "Television inteview during the Security Through Innovation Summit"
+  author: Billy Mitchell
+  published: 2017-05-16
+  outlet: FedScoop TV
+  type: tv
+
+- title: Secure Cloud Computing Progress & Best Practices
+  img: assets/img/wtopnewslogo.jpg
+  url: 
+  description: "Federal News Radio Interview"
+  author: WTOP
+  published: 2015-05-15
+  outlet: WTOP News
+  type: radio
