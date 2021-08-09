@@ -7,6 +7,16 @@
   outlet: GovMatters TV
   type: tv
 
+- title: "Red Hat’s Shawn Wells talks cyber policy and innovation"
+  img: assets/img/fedscooplogo.png
+  url: https://www.fedscoop.com/video/red-hats-shawn-wells-talks-cyber-policy-and-innovation/
+  description: "Shawn Wells, chief security strategist of the public sector for Red Hat,
+  joins FedScoop TV to talk about the impact cybersecurity policy is having on innovation in the government. "
+  author: Billy Mitchell
+  published: 2016-05-25
+  outlet: FedScoop TV
+  type: tv
+
 - title: Red Hat’s Shawn Wells on Federal Cybersecurity
   img: assets/img/fedscooplogo.png
   url: https://www.fedscoop.com/video/red-hats-shawn-wells-federal-cybersecurity/
@@ -18,9 +28,18 @@
 
 - title: Secure Cloud Computing Progress & Best Practices
   img: assets/img/wtopnewslogo.jpg
-  url: 
-  description: "Federal News Radio Interview"
+  url: https://www.youtube.com/watch?v=-7nSgx3Q-IQ
+  description: "<p>Federal Executive Forum Program on Secure Cloud Computing in Government
+  on Federal News Radio, WFED/1500am in Washington D.C.</p>
+  <p>Moderated by Jim Flyzik (President, Flyzik Group), the panelists included:
+    <ul>
+      <li><a href=\"https://www.linkedin.com/in/frank-konieczny-1748a62/\" target=\"_new\">Frank Koneiczny</a>, Chief Technology Officer, US Air Force</li>
+      <li>Tonya Manning, Chief Information Security Officer, Dept. of Labor</li>
+      <li><a href=\"https://www.linkedin.com/in/chris-bollerer-b207581/\" target=\"_new\">Chris Bollerer</a>, Director of Security Governance, Risk Management & Compliance & Acting Deputy Chief Information Security Officer, HHS</li>
+      <li><a href=\"https://www.linkedin.com/in/sarahcjackson/\" target=\"_new\">Sarah Jackson</a>, Vice President for Sales Consulting Public Sector Applications, Oracle</li>
+      <li><a href=\"https://www.linkedin.com/in/don-hewatt-45091/\" target=\"_new\">Don Hewatt</a>, Director of US Public Sector Workload & Cloud Solutions, HP Enterprise Services</li>
+    </ul></p>"
   author: WTOP
-  published: 2015-05-15
+  published: 2015-05-19
   outlet: WTOP News
   type: radio

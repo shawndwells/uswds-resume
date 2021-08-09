@@ -1,3 +1,119 @@
+- title: "Clockspeed Dilemma Hobbling Army Cyber"
+  img: "img/media-logos/FortGordonNews2020.jpeg"
+  url: https://www.fortgordonnews.com/articles/clockspeed-dilemma-hobbling-army-cyber/
+  description: "Frustration with the pace of integrating new technologies within Army cyber
+  can be likened to the 'clockspeed dilemma,' a term applied recently to the auto industry,
+  said Brig. Gen. Patricia Frost."
+  author: David Vergun
+  published: 2016-10-28
+  outlet: Fort Gordon News
+  type: press
+
+- title: "August AFCEA Fort Knox Gold Vault Chapter Newsletter"
+  img: "img/media-logos/afcea-logo.png"
+  url: https://ftknoxafceachapters.starchapter.com/images/downloads/2017_Newsletters/afcea_gold_vault_chapter_newsletter_august_2017.pdf
+  description: "You are cordially invited to join our luncheon at the next Gold Vault Chapter General
+  Membership Meeting! This event will be held on September 14th, 2017 at the Saber & Quill
+  and is sponsored by CoreSys and Red Hat Enterprise Linux (RHEL). The event time will be 11:30-1,
+  check-in begins at 11:00. We are excited to announce that Mr. Shawn Wells, Chief Security
+  Strategist of Red Hat will be our special guest speaker"
+  author: AFCEA
+  published: 2017-08-01
+  outlet: AFCEA Fort Knox Gold Vault Chapter
+  type: press
+
+- title: "2018 Cyber Conference: Navigating the Security Pitfalls of a Connected World"
+  img: "img/media-logos/business-monthly.jpeg"
+  url: https://www.bizmonthly.com/2018-cyber-conference-navigating-the-security-pitfalls-of-a-connected-world/
+  description: "The GovConnects program has been organizing and hosting a Cyber Conference
+  for eight years now, and it has become a can’t miss event for anyone working in
+  cybersecurity or related fields in the region."
+  author: Becky Mangus
+  published: 2018-05-29
+  outlet: The Business Monthly
+  type: press
+
+- title: "Partnerships Answer Dilemma in Army Cyber"
+  img: "img/media-logos/army-news.jpeg"
+  url: https://www.ausa.org/sites/default/files/NCO_Update_2016q4.pdf
+  description: "The once-innovative auto industry has trouble keeping pace with new developments of autonomous
+  vehicles, sensors and information technology gadgets going into their cars.
+  Likewise, the Army has trouble keeping up with new cyber technologies used by adversaries against the United
+  States."
+  author: David Vergun
+  published: 2016-11-01
+  outlet: Army News Service
+  type: press
+
+- title: "Lockheed Martin Improves Security Capabilities and Reduces HPC Costs with Altair PBS Professional™"
+  img: "img/media-logos/altair-logo.png"
+  url: https://www.altair.com/customer-story/lockheed-martin-improves-security-capabilities-reduces-hpc-costs-with-pbs-professional
+  description: "Security is critically important for government computing systems, so when the experts
+  at Lockheed Martin are tasked with configuring one, they use Red Hat® Enterprise Linux® cross-domain
+  system (CDS) configurations for multi-level security (MLS) — enabling users and data at different
+  security levels to share the same resources including hardware, operating systems, and disks. The
+  MLS policy and other features built into Red Hat Enterprise Linux enable role-based access control
+  (RBAC), automated auditing, and many other security features."
+  author: Altair
+  published: 2009-07-01
+  outlet: Altair Press Release
+  type: press
+
+- title: "OpenShift Security Guide: our first virtual Book Sprint experience"
+  img: "img/media-logos/booksprintsltd.png"
+  url: https://www.booksprints.net/sprintlab/openshift-security-guide-our-first-virtual-book-sprint-experience/
+  description: "In April we facilitated our first fully virtual Book Sprint with Red Hat, and
+  we are thrilled to share that OpenShift Security Guide was released for Kindle on May 8th on
+  Amazon, where the book is already #1 new release and #13 in the system administration ranks! "
+  author: Julianna Secchi
+  published: 2020-05-01
+  outlet: Book Sprints Ltd
+  type: press
+
+- title: "Defense in Depth Event Will Bring Red Hat Summit's Security Focus to the Beltway"
+  img: "img/media-logos/redhat-old.png"
+  url: https://www.redhat.com/en/blog/defense-depth-event-will-bring-red-hat-summits-security-focus-beltway
+  description: "<p>We spent a lot of time discussing security at Red Hat Summit, but we understand
+  that for those of us working inside the beltway, it might be difficult to attend the event
+  to learn more about open source software and its place in government agencies.</p>
+  <p>That's why we're bringing those conversations to you – with Red Hat's Defense in Depth 2015 event.</p>"
+  author: Red Hat Public Sector
+  published: 2015-08-27
+  outlet: Red Hat Blog
+  type: press
+
+- title: "DevNation Blog: End-to-end OpenSCAP for automated compliance"
+  img: "img/media-logos/redhat-developer.svg"
+  url: https://developers.redhat.com/blog/2016/06/30/devnation-blog-end-to-end-openscap-for-automated-compliance
+  description: "OpenSCAP is a security framework for determining the compliance of a system to
+  some defined set of standards. Jeffrey Blank of the National Security Agency and Shawn Wells
+  of Red Hat gave their talk on automated compliance."
+  author: Brian Atkisson
+  published: 2016-06-30
+  outlet: Red Hat Developer
+  type: press
+
+- title: "Where’s Red Hat this December?"
+  img: "img/media-logos/redhat-old.png"
+  url: https://www.redhat.com/en/blog/wheres-red-hat-this-december-3
+  description: "If there’s any way to say good bye to 2009 with a bang, then Red Hat knows how to do it!
+  The year 2009 may be closing out in a month, but Red Hat has events to keep you busy and up-to-date on
+  the open source world before we enter 2010."
+  author: Red Hat Events Team
+  published: 2009-12-01
+  outlet: Red Hat Blog
+  type: press
+
+- title: "'Clockspeed dilemma' hobbling Army cyber, but partnerships may be answer"
+  img: "img/media-logos/army.png"
+  url: https://www.army.mil/article/176514/clockspeed_dilemma_hobbling_army_cyber_but_partnerships_may_be_answer
+  description: "Frustration with the pace of integrating new technologies within Army cyber can be likened to
+  the 'clockspeed dilemma,' a term applied recently to the auto industry, said Brig. Gen. Patricia Frost."
+  author: David Vergun
+  published: 2016-10-12
+  outlet: U.S. Army
+  type: press
+
 - title: "2019 Pinnacle Awards: Cybersecurity Industry Exec of the Year Shawn Wells, Red Hat"
   img: "img/media-logos/WashExecLogo.jpg"
   url: https://washingtonexec.com/2019/11/2019-pinnacle-awards-cybersecurity-industry-exec-of-the-year-shawn-wells-red-hat/#.YJiLmqLYpPV
@@ -5,6 +121,28 @@
     has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
   author: STAFF WRITER
   published: 2019-11-12
+  outlet: WashingtonExec Magazine
+  type: press
+
+- title: "2019 Pinnacle Awards Winners Revealed"
+  img: "img/media-logos/WashExecLogo.jpg"
+  url: https://washingtonexec.com/2019/11/2019-pinnacle-awards-winners-revealed/
+  description: "WashingtonExec on Oct. 31 announced the winners of the second annual Pinnacle Awards before an
+  audience of over 525 GovCon leaders, influencers and government innovators. The Judges Committee received
+  hundreds of nominations across 18 categories, making it a challenge to down-select the 75 finalists. "
+  author: STAFF WRITER
+  published: 2019-11-03
+  outlet: WashingtonExec Magazine
+  type: press
+
+- title: "Finalists Announced for Second Annual WashingtonExec Pinnacle Awards"
+  img: "img/media-logos/WashExecLogo.jpg"
+  url: https://www.businesswire.com/news/home/20191015005904/en/Finalists-Announced-for-Second-Annual-WashingtonExec-Pinnacle-Awards
+  description: "WashingtonExec — with presenting sponsor Bloomberg Government—announced today the finalists
+  for its Pinnacle Awards, which honor successful executives and businesses spurring innovation for
+  federal clients across the region."
+  author: STAFF WRITER
+  published: 2019-10-15
   outlet: WashingtonExec Magazine
   type: press
 
@@ -16,6 +154,19 @@
   published: 2019-07-15
   outlet: GovMatters TV
   type: tv
+
+- title: "Red Hat, Army School Adopt ‘Open Organization’ Model to Encourage Cyber Workforce Productivity; Shawn Wells Quoted"
+  img: assets/img/ExecutiveBiz-logo.png
+  url: https://blog.executivebiz.com/2018/11/red-hat-army-school-adopt-open-organization-model-to-encourage-cyber-workforce-productivity-shawn-wells-quoted/
+  description: "<p>Red Hat has implemented an “open organization” approach that allows public-serving cybersecurity
+  teams to assess employee performance and outcome of missions.</p>
+  <p>In an article posted Friday on Federal News Network, the company noted the U.S.
+  Army‘s Cyber School at Fort Gordon in Georgia also uses the model to train soldiers
+  in cyber-related projects.</p>"
+  author: Monica Jackson
+  published: 2018-11-05
+  outlet: ExecutiveBiz
+  type: press
 
 - title: "Enabling the cyber workforce through the Open Organization"
   img: assets/img/wtopnewslogo.jpg
@@ -44,10 +195,25 @@
   outlet: CivSource Online
   type: press
 
+- title: How Federal Cybersecurity Standards Reach State, Local Governments
+  img: assets/img/govlooplogo.png
+  url: https://www.govloop.com/value-cybersecurity-standards-levels-government/
+  description: "Government agencies have long battled with how to operate efficiently while
+  innovating effectively for the future. Technology advancements have made iterating through
+  experimentation relatively inexpensive, helping learning and innovation occur faster."
+  author: Mark Hensch
+  published: 2018-09-25
+  outlet: GovLoop
+  type: press
+
 - title: The Value of Cybersecurity Standards At All Levels of Government
   img: assets/img/govlooplogo.png
   url: https://www.govloop.com/value-cybersecurity-standards-levels-government/
-  description: ""
+  description: "<p>The federal government is responsible for numerous agencies, so unifying cybersecurity best
+  practices and standards across them keeps the entire enterprise in lockstep together.</p>
+  <p>Cybersecurity standards that are good enough for the federal government can prove equally
+  beneficial to its state and local counterparts, however, while keeping all three on
+  the same page nationwide.</p>"
   author: Mark Hensch
   published: 2018-07-26
   outlet: GovLoop
@@ -169,4 +335,16 @@
   author: ITEN WIRED
   published: 2015-01-21
   outlet: iTEN Wired
+  type: press
+
+- title: "Trusted Computer Solutions Introduces Automated Lock Down Solution"
+  img: assets/img/darkreadinglogo.png
+  url: https://www.darkreading.com/risk/trusted-computer-solutions-introduces-automated-lock-down-solution-/d/d-id/1131905
+  description: "Trusted Computer Solutions, Inc. (TCS), a leading developer of cross domain and
+  cyber security solutions, today announced that Security Blanket, the company's award-winning
+  automated lock down solution, is now available for Red Hat Enterprise Linux 5 operating
+  systems running on IBM System z hardware."
+  author: Dark Reading
+  published: 2009-09-09
+  outlet: Dark Reading
   type: press

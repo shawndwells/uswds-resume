@@ -1,7 +1,9 @@
 - ratingName: DoD Information Assurance Technical Level I (IAT-I)
   ratingGrantor: DoD 8140<br/>DoDD 8570.01-M C3.3
   ratingURL:
-  ratingDescription: IAT Level I personnel make computing environments less vulnerable by correcting flaws and implementing technical information assurance controls in the hardware or software installed within their operational systems.
+  ratingDescription: "IAT Level I personnel make computing environments less vulnerable
+  by correcting flaws and implementing technical information assurance controls in the
+  hardware or software installed within their operational systems.<br/><br/><br/>"
   ratingLogo: "assets/img/certification-logos/dod-logo.png"
 
 - ratingName: DoD Information Assurance Technical Level II (IAT-II)
@@ -13,7 +15,11 @@
 - ratingName: DoD Information Assurance Technical Level III (IAT-III)
   ratingGrantor: DoD 8140<br/>DoDD 8570.01M C3.5
   ratingURL:
-  ratingDescription: IAT Level III personnel focus on the enclave environment and support, monitor, test, and troubleshoot hardware and software information assurance problems pertaining to the compute environment, network environment, and enclave environments. IAT Level III personnel have mastery of the functions of both the IAT Level I and IAT Level II positions.
+  ratingDescription: "IAT Level III personnel focus on the enclave environment and support,
+  monitor, test, and troubleshoot hardware and software information assurance problems
+  pertaining to the compute environment, network environment, and enclave environments.
+  IAT Level III personnel have mastery of the functions of both the IAT Level I and IAT
+  Level II positions.<br/><br/>"
   ratingLogo: "assets/img/certification-logos/dod-logo.png"
   
 - ratingName: DoD Information Assurance Workforce System Architect and Engineer Level I (IASAE-I)
@@ -37,7 +43,10 @@
 - ratingName: DoD Information Assurance Management Level I (IAM-I)
   ratingGrantor: DoD 8140 (DoDD 8570.01-M C4.3)
   ratingURL:
-  ratingDescription: IAM Level I personnel are responsible for the implementation and operation of a DoD Information System or system DoD Component within their compute environment. Incumbents ensure that information assurance related information systems are functional and secure within the compute environment.
+  ratingDescription: "IAM Level I personnel are responsible for the implementation and
+  operation of a DoD Information System or system DoD Component within their compute
+  environment. Incumbents ensure that information assurance related information systems
+  are functional and secure within the compute environment.<br/><br/>"
   ratingLogo: "assets/img/certification-logos/dod-logo.png"
   
 - ratingName: DoD Information Assurance Management Level II (IAM-II)
@@ -84,5 +93,9 @@
   
 - ratingName: Federal Executive Chief Information Officer (Federal CIO)
   ratingGrantor: GSA
-  ratingDescription: The GSA Federal CIO designation was a graduate level programs that directly addressed federal executive core competencies in order to prepare business leaders for top IT jobs in government and private sector. The purpose of the CIO University was to improve the leadership  of information technology in the federal government by enhancing the skills of its top executives.
+  ratingDescription: "The GSA Federal CIO designation was a graduate level programs that
+  directly addressed federal executive core competencies in order to prepare business
+  leaders for top IT jobs in government and private sector. The purpose of the CIO
+  University was to improve the leadership  of information technology in the federal
+  government by enhancing the skills of its top executives.<br/><br/><br/>"
   ratingLogo: "assets/img/certification-logos/gsa-logo.png"

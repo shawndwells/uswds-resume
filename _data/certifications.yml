@@ -1,14 +1,22 @@
 - certName: "Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge v3 (CCSKv3)"
   certLogo: "assets/img/certification-logos/ccsk-logo.svg"
   certURL: someurl.com
-  certDescription: "some description"
+  certDescription: "The CCSK is a web-based examination of an individual’s competency
+  in key cloud security issues. Launched in 2010, the CCSK is a widely recognized
+  standard of expertise and is the industry’s primary benchmark for measuring cloud
+  security skillsets. The CCSK was recently lauded as the most valuable IT
+  certification in terms of average salary by Certification Magazine."
   certNumber: 241455593941
   certVerificationURL: https://ccsk.cloudsecurityalliance.org/en
 
 - certName: "Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge v4 (CCSKv4)"
   certLogo: "assets/img/certification-logos/ccsk-logo.svg"
   certURL: someurl.com
-  certDescription: "some description"
+  certDescription: "The CCSK is a web-based examination of an individual’s competency
+  in key cloud security issues. Launched in 2010, the CCSK is a widely recognized
+  standard of expertise and is the industry’s primary benchmark for measuring cloud
+  security skillsets. The CCSK was recently lauded as the most valuable IT
+  certification in terms of average salary by Certification Magazine."
   certNumber: HxDsbXcPt8vK6fnxcAgNRZPH
   certVerificationURL: https://ccsk.cloudsecurityalliance.org/en
 
@@ -171,7 +179,7 @@
   certDescription: |
     The CISA certification is world-renowned as the standard of achievement for those who
     audit, control, monitor and assess an organization’s information technology and
-    business systems.
+    business systems.<br/><br/>
   certNumber: "N/A"
   certVerificationURL: "https://www.isaca.org/credentialing/cisa"
 
@@ -180,7 +188,7 @@
   certURL: someurl.com
   certDescription: |
     The management-focused CISM is the globally accepted standard for individuals who design,
-    build and manage enterprise information security programs.
+    build and manage enterprise information security programs.<br/><br/>
   certNumber: "N/A"
   certVerificationURL: "https://www.isaca.org/credentialing/cism"
 
@@ -233,7 +241,9 @@
 - certName: "ISC2 Information Systems Security Management Professional (CISSP-ISSMP)"
   certLogo: "assets/img/certification-logos/cissp-issmp.png"
   certURL: someurl.com
-  certDescription: "some description"
+  certDescription: "The vendor-neutral CISSP-ISSMP credential confirms a CISSP’s
+  specialized knowledge and experience in establishing, presenting, and governing
+  information security programs and demonstrate management and leadership skills."
   certNumber: "470771"
   certVerificationURL: "https://www.isc2.org/MemberVerification"
 
@@ -244,7 +254,7 @@
     Validates the foundational skills to write more secure software and reduce
     vulnerabilities and re-work. This certificate requires knowledge of secure
     software concepts, secure software design, OWASP top 10, secure software
-    coding, and defending Java.
+    coding, and defending Java.<br/><br/>
   certNumber: "470771"
   certVerificationURL: "https://www.isc2.org/MemberVerification"
 
@@ -254,7 +264,7 @@
   certDescription: |
     The vendor-neutral SSCP credential confirms deep technical knowledge and competency
     in implementing, monitoring, and administering IT Infrastructure in accordance
-    with information security policies and requirements across the organization.
+    with information security policies and requirements across the organization.<br/><br/>
   certNumber: "470771"
   certVerificationURL: "https://www.isc2.org/MemberVerification"
 
@@ -264,7 +274,7 @@
   certDescription: |
     ITIL 4 provides a flexible foundation for organizations that need to integrate various
     frameworks and approaches into their service management operating models. ITIL 4 aims
-    to help businesses navigate the new technological era of digital services.
+    to help businesses navigate the new technological era of digital services.<br/><br/>
   certNumber: "9980079617425315"
   certVerificationURL: "https://www.axelos.com/certifications/itil-certifications"
 
@@ -334,7 +344,7 @@
   certURL: someurl.com
   certDescription: |
     The CSP is an advanced certification that indicates the recipient is both knowledgeable and
-    experienced in the practical and theoretical use of Scrum.
+    experienced in the practical and theoretical use of Scrum.<br/><br/>
   certNumber: "715553"
   certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"
 
