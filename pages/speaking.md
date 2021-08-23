@@ -132,7 +132,7 @@ subnav:
         </th>
         <td class="text-left" data-sort-value="{{ presentation.eventName }}">{{ presentation.eventName }}</td>
         <td class="text-tabular text-left">
-          <p class="text-tabular text-center"><a href="nowhere.com">{{ presentation.sessionName }}</a></p>
+          <p class="text-tabular text-center"><b>{{ presentation.sessionName }}</b></p>
           <p class="text-tabular text-left">{{ presentation.sessionAbstract }}</p>
         </td>
         <td class="text-tabular text-center">{% if presentation.downloadPDF %}<a href="../{{ presentation.downloadPDF }}">PDF</a>{% endif %}</td>

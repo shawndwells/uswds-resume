@@ -1,4 +1,214 @@
+- sessionName: "An Open Source Approach to FedRAMP"
+  sessionDate: 2019-07-23
+  eventName: Carahsoft FedRAMP Forum
+  sessionAbstract: |
+    <p>Recent news headlines include how GSA took their ATO process from 6 months to 30 days, the Navy's
+    "Compile to Combat in 24 hours" capability, or how ORock achieved FedRAMP Moderate in three months.
+    These rapid ATO success stories sharply contrast to opinions that FedRAMP, FISMA, and broader initiatives
+    like Controlled Unclassified Information (CUI) slow down innovation.</p>
+    <p>Via NIST 800-53 the U.S. Government created a security control catalog. Could a <i>response</i> catalog
+    be created, sharing prepopulated answers for common technologies like operating systems and container
+    platforms? If we could create a control <i>response</i> catalog, could deployment specific ATO materials
+    be dynamically generated?</p>
+    <p>This talk steps through a joint industry/government initiative called OpenControl, which in partnership
+    with GSA and NIST, is working to automate much of the ATO process.</p>
+  downloadPDF: files/presentations/2019-07-23-Carahsoft-An-open-source-approach-to-FedRAMP-Shawn-Wells.pdf
+  downloadVideo: 
+  
+  - sessionName: "OpenFirst DC: DevSecOps in Practice (Moderated Panel)"
+    sessionDate: 2018-09-18
+    eventName: OpenFirst DC
+    sessionAbstract: |
+      Moderated a panel discussion on DevSecOps and how government agencies can integrate it into
+      their security efforts. Panelests were:
+      <ul>
+        <li><a href="https://www.linkedin.com/in/kshemendrapaul/" target="_new">Kshemendra Paul</a>, Cloud Action Officer & Deputy Director of Mission Strategy, DHS</li>
+        <li><a href="https://www.linkedin.com/in/phil-harvey-a5992511/" target="_new">Phil Harvey</a>, Technical Directory & Principal Engineering Fellow, Raytheon IIS/CMS</li>
+      </ul>
+    downloadPDF: files/presentations/2018-09-18-OpenFirst-DC-Shawn-Wells-Kshmendra-Paul-Phil-Harvey.pdf
+    downloadVideo: 
 
+- sessionName: "Red Hat Enterprise Virtualization (RHEV) with Cisco UCS"
+  sessionDate: 2011-12-08
+  eventName: Cisco Webinar
+  sessionAbstract: |
+    Spoke about Red Hat Enterprise Virtualization on Cisco UCS hardware. Detailed recent RHEV-D
+    features, performance and scalability results, and details of the underlying SPICE technology.
+  downloadPDF: files/presentations/2011-12-08-Red-Hat-Virtual-Desktop-Infrastructure-with-Cisco-UCS-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Red Hat Virtualization Overview"
+  sessionDate: 2011-11-03
+  eventName: U.S. Intelligence Community Cloud Users Group
+  sessionAbstract: |
+    Invited by TMA to speak at the first meeting of the U.S. Intelligence Community's Cloud Users Group. Spoke
+    about the latest happenings in open source virtualization (Aeolus, CloudForms, KVM) and Red Hat Enterprise
+    Virtualization.
+  downloadPDF: files/presentations/2011-11-03-TMA-Intelligence-Community-Cloud-Users-Group-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Trends & Observations in Open Source Cloud Computing"
+  sessionDate: 2011-08-10
+  eventName: In-Q-Tel (IQT) Technology Focus Day
+  sessionAbstract: |
+    Invited by In-Q-Tel, the venture capital firm of the U.S. Intelligence Community,
+    to speak at their Technology Focus Day to discuss how the open source movement
+    competes against proprietary companies in the cloud space.
+  downloadPDF: files/presentations/2011-08-10-In-Q-Tel-IQT-Technology-Focus-Day-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Red Hat Portfolio Overview"
+  sessionDate: 2011-03-15
+  eventName: Lockheed Martin Briefing Center
+  sessionAbstract: |
+    Invited by Lockeed Martin to their Gaithersburg facility to brief
+    technical staff within IS&GS on various Red Hat topics. Discussed
+    Red Hat Enterprise Linux, MRG, Red Hat Network Satellite, Red Hat
+    Enterprise Virtualization, JBoss, and various cloud technologies.
+  downloadPDF: files/presentations/2011-03-15-Lockheed-Martin-LMCO-Briefing-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Red Hat Technical Symposium"
+  sessionDate: 2010-11-08
+  eventName: Red Hat Technical Symposium at NSA Research & Engineering
+  sessionAbstract: |
+    After closing an agency-wide enterprise licensing agreement, invited by the Government
+    Contracting Officer to brief all of NSA at an in-person event at the NSA
+    Research & Engineering Symposium Center at Fort Meade, MD. Topics covered included
+    a Red Hat Enterprise Linux 6 update, Red Hat in a Virtualized Environment, and
+    Security topics. Co-presented with Chris Runge (Technical Director) and Gunnar
+    Hellekson (Red Hat Federal CTO).
+  downloadPDF: files/presentations/2010-11-08-NSA-Technical-Symposium-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Dell / Red Hat Alliance in the U.S. Intelligence Community"
+  sessionDate: 2010-09-24
+  eventName: Dell Executive Briefing
+  sessionAbstract: |
+    Invited by Dell to speak at their U.S. Intelligence Community Executive Briefing. 
+    Outlined joint corporate initiatives, Red Hat Enterprise Virtualization (RHEV),
+    and performance benchmarks on the recently released Dell R710 hardware.
+  downloadPDF: files/presentations/2010-09-24-Red-Hat-and-Dell-in-the-IC-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "NexGen Desktop Concept Architecture, Phase 2"
+  sessionDate: 2010-08-05
+  eventName: DoDIIS Industry Day
+  sessionAbstract: |
+    Asked by the U.S. Government to present at a second DoDIIS Industry Day, gave a live system
+    demonstration of how Red Hat technology could lay the foundation
+    for a cross-domain virtual desktop environment. Using native technologies
+    available in Red Hat Enterprise Linux and Red Hat Enterprise Virtualization, demonstrated
+    virtual desktops of differing classification levels connecting through a single
+    thin client.
+  downloadPDF: files/presentations/2010-08-05-NextGen-Desktop-Concept-Architecture-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "DoDIIS NexGen Desktop Concept Architecture"
+  sessionDate: 2010-05-21
+  eventName: DoDIIS Industry Day
+  sessionAbstract: |
+    Delivered conceptual overview of how Red Hat technology could lay the foundation
+    for a cross-domain virtual desktop environment. Using native technologies
+    available in Red Hat Enterprise Linux and Red Hat Enterprise Virtualization, demonstrated
+    virtual desktops of differing classification levels connecting through a single
+    thin client.
+  downloadPDF: files/presentations/2010-05-21-DoDIIS-NexGen-Desktop-Concept-Brief-Shawn-Wells.pdf
+  downloadVideo: 
+
+
+- sessionName: "Red Hat Identity Management & Certificate System Technical Overview"
+  sessionDate: 2010-03-30
+  eventName: U.S. Intelligence Community Identity Management Working Group
+  sessionAbstract: |
+    Invited to speak at the Identity Management working group of the United States
+    Intelligence Community. Provided an overview of PKI, Red Hat Certificate System, and a deep
+    dive into several requested technical topics (token innovations, scalability and performance
+    concerns, high-availability deployment models, tools and SDKs, NSS crypto libraries, and new
+    features).
+  downloadPDF: files/presentations/2010-03-30-Red-Hat-Identity-Management-and-PKI-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Current & Future Linux on Sysetm z Technology Deep Dive"
+  sessionDate: 2010-01-28
+  eventName: National Security Agency Open Source Software User Group (NSA OSSUG)
+  sessionAbstract: |
+    Invited to speak at the Open Source Software user group at the National Security Agency.
+    Discussed the latest Linux on System z technology and capabilities, the Red Hat Enterprise
+    Linux release roadmap, RHEL 5.4, and upcoming Intel NEHALEM support for the x86 platform.
+  downloadPDF: files/presentations/2010-01-28-NSA-Open-Source-User-Group-System-z-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Red Hat on the Mainframe: The Reasons Are Compelling"
+  sessionDate: 2009-12-04
+  eventName: New York City System z Executive Council
+  sessionAbstract: |
+    Invited to speak at the NYC System z Executive Council meeting. Shared Red Hat updates,
+    which included publicly speaking about the libVirt project -- an attempt to unify x86
+    virtualization with s390x and z/VM through a consolidated API.
+  downloadPDF: files/presentations/2009-12-04-NYC-System-z-Council-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Announcing the IBM Enterprise Linux Server and the System z Solution Edition for Enterprise Linux"
+  sessionDate: 2009-11-23
+  eventName: Red Hat Webinar
+  sessionAbstract: |
+    With Linux on System z growth globally, partnered with IBM to announce a 'System z Solution Edition'
+    that pre-bundled Linux subscriptions at a highly discounted price for System z customers. Co-presented with
+    Reed Mullen, the System z Consolidation and Virtualization Leader at IBM.
+  downloadPDF: files/presentations/2009-11-23-IBM-Enterprise-Linux-Server-and-the-System-z-Solution-Edition-for-Enterprise-Linux-Reed-Mullen-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Red Hat System z Partner Program Review"
+  sessionDate: 2009-11-05
+  eventName: Red Hat Webinar
+  sessionAbstract: |
+    With Red Hat's System z marketshare growing, third party software providers
+    were looking to port their software to Red Hat Enterprise Linux on System z.
+    Co-presenting with Michael Fremder (Red Hat ISV Program Manager), discussed
+    current market trends and resources for Red Hat ISVs to join the Linux
+    on System z market.
+  downloadPDF: files/presentations/2009-11-05-System-z-ISV-Call-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "System z Update"
+  sessionDate: 2009-10-15
+  eventName: Forrester Analyst Relations Call
+  sessionAbstract: |
+    Covered the release of RHEL 5.4, tentative roadmap of RHEL 6
+    for IBM System z, an update on CMM2/CMMA via the CMM-Lite technology, and future-looking discussion
+    regarding the joint IBM and Red Hat development initiatives.
+  downloadPDF: files/presentations/2009-10-15-System-z-with-Forrester-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Session zQV31: Current & Future Linux on System z Technology (RHEL 5.4 and beyond)"
+  sessionDate: 2009-10-07
+  eventName: IBM System z Expo (IBM zExpo)
+  sessionAbstract: |
+    Covered the release of RHEL 5.4, tentative roadmap of RHEL 6
+    for IBM System z, an update on CMM2/CMMA via the CMM-Lite technology, and future-looking discussion
+    regarding the joint IBM and Red Hat development initiatives.
+  downloadPDF: files/presentations/2009-10-07-IBM-System-z-Expo-zExpo-Current-and-Future-State-of-Linux-on-System-z-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Current & Future Linux on System z Technology (RHEL 5.4 and beyond)"
+  sessionDate: 2009-09-24
+  eventName: Get the Hype on System z Webinar
+  sessionAbstract: |
+    Covered the release of RHEL 5.4, tentative roadmap of RHEL 6
+    for IBM System z, an update on CMM2/CMMA via the CMM-Lite technology, and future-looking discussion
+    regarding the joint IBM and Red Hat development initiatives.
+  downloadPDF: files/presentations/2009-09-24-IBM-zWebinar-Current-and-Future-Linux-on-System-z-Shawn-Wells.pdf
+  downloadVideo: 
+
+- sessionName: "Session 9204: Managing your Red Hat Enterprise Linux Guests with RHN Satellite"
+  sessionDate: 2009-08-24
+  eventName: SHARE Denver
+  sessionAbstract: |
+    What is Red Hat Network? What are the modules? What are the deployment architectures? How's it run
+    on IBM System z?
+  downloadPDF: files/presentations/2009-08-24-SHARE-Red-Hat-Network-Satellite-Shawn-Wells.pdf
+  downloadVideo: 
 
 - sessionName: "The Linux Audit Subsystem: Deep Dive"
   sessionDate: 2009-08-24
@@ -10,10 +220,9 @@
   downloadPDF: files/presentations/2009-08-24-SHARE-Linux-Audit-Shawn-Wells.pdf
   downloadVideo: 
   
-
 - sessionName: System z Update - Analyst Call
   sessionDate: 2009-07-28
-  eventName: System z Press and Analyst Webinar
+  eventName: System z Press and Industry Analyst Webinar
   sessionAbstract: |
     Delivered to press and industry analysts such as Gartner, Forrester, and IDC, delivered
     the Red Hat corporate overview, System z revenue growth, updated marketshare, and other
@@ -42,15 +251,15 @@
   sessionAbstract: |
     Invited to return and speak at the <a href="http://www.cavmen.org/" target="_new">
     Chicago Area VM (and Linux) Enthusiats</a> meetup. Session
-    delivered an update abou tthe latest Red Hat Enterprise Linux technical updates;
-    nameely, the Sistina GFS filesystem, LVM2, sVirt's integration of Mandatory
+    delivered an update about the latest Red Hat Enterprise Linux technical updates;
+    namely, the Sistina GFS filesystem, LVM2, sVirt's integration of Mandatory
     Access Control, Fedora for System z, and libvirt.
-  downloadPDF: files/presentations/2009-06-17-CAVMEN-Red Hat-Corp-Update-Minus-Financials-Shawn-Wells.pdf
+  downloadPDF: files/presentations/2009-06-17-CAVMEN-Red-Hat-Corp-Update-Minus-Financials-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Red Hat Solutions for System z
   sessionDate: 2009-06-15
-  eventName: Marist Summer Series
+  eventName: System z Summer Series at Marist College
   sessionAbstract: |
     Invited to return to Marist College for their 2009 summer series. Spoke about Red Hat's
     Open Source University (OSU) program. Our goal was to enable thousands of colleges
@@ -65,12 +274,12 @@
   
 - sessionName: Red Hat Solutions for System z
   sessionDate: 2009-05-11
-  eventName: Red Hat Webinar
+  eventName: IBM Executive Customer Briefing
   sessionAbstract: |
     Focusing primarily on the business benefits of Linux on System z, covered a recent
     design win within the U.S. Government. This agency saved >$5M in virtualization costs, and
-    >$8M in Oracle Database licensing, by coverting from x86/VMWare to Linux on System z.
-  downloadPDF: files/presentations/2009-05-11-Red-Hat-System-z-Executive-Brief.pdf
+    >$8M in Oracle Database licensing, by converting from x86/VMWare to Linux on System z.
+  downloadPDF: files/presentations/2009-05-11-Red-Hat-System-z-Executive-Brief-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: A Customer's Perspective on Making Enterprise Linux Deployable, Scalable, and Manageable
@@ -84,7 +293,7 @@
     Co-presented with <a href="https://www.linkedin.com/in/kevin-masaryk-799415b/" target="_new">
     Kevin Masaryk</a> (Linux/UNIX Administrator at Salt River Project) and
     <a href="https://www.linkedin.com/in/wells56/" target="_new">Chris Wells</a> (Senior Product Marketing Manager, Red Hat)
-  downloadPDF: files/presentations/2009-05-05-Salt-River-Project-RHN.pdf
+  downloadPDF: files/presentations/2009-05-05-Salt-River-Project-Red-Hat-Network-Satellite-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Red Hat on IBM System z
@@ -94,7 +303,7 @@
     Invited to visit IBM's Linux Technology Center in India. Over the course
     of multiple days, presented at technical interlock meetings with IBM
     kernel developers, support engineers, and kernel test engineers.
-  downloadPDF: files/presentations/2009-04-17-IBM-LTC-India-Briefing-NON-NDA.pdf
+  downloadPDF: files/presentations/2009-04-17-IBM-Linux-Technology-Center-LTC-India-Briefing-NON-NDA-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Current & Future State of Linux on System z
@@ -106,12 +315,12 @@
     efforts. Technical updates included accelerated in-kernel crypto algorithms
     for IBM z10, SELinux per-package access controls, nv_conntrack subsystem,
     and other kernel topics such as address space randomization.
-  downloadPDF: files/presentations/2009-04-14-IBM-ISV-Presentation.pdf
+  downloadPDF: files/presentations/2009-04-14-IBM-ISV-Presentation-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Taking "Green" Beyond the Hardware
   sessionDate: 2009-03-18
-  eventName: Atlanta System z Council
+  eventName: IBM Go Green
   sessionAbstract: |
     When thinking "Green Datacenters," most individuals only consider hardware.
     This session delivered content to expand that thinking to tunables provided
@@ -120,12 +329,12 @@
     Stepped through the Red Hat deployment to the Bank of New Zealand,
     which reduced power consumption by over 35% when compared to their
     legacy SUN environment.
-  downloadPDF: files/presentations/2009-03-18-IBM-Go-Green-RDU.pdf
+  downloadPDF: files/presentations/2009-03-18-IBM-Go-Green-RDU-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Current & Future State of Linux on System z
   sessionDate: 2009-03-03
-  eventName: Atlanta System z Council.
+  eventName: Atlanta System z Council
   sessionAbstract: |
     Invited to deliver 2009-03-03 IBM SHARE conference presentation to the
     IBM Atlanta System z council.
@@ -135,19 +344,19 @@
     efforts. Technical updates included accelerated in-kernel crypto algorithms
     for IBM z10, SELinux per-package access controls, nv_conntrack subsystem,
     and other kernel topics such as address space randomization.
-  downloadPDF: files/presentations/2009-03-13-Atlanta-System-z-Council-Mtg.pdf
+  downloadPDF: files/presentations/2009-03-13-Atlanta-System-z-Council-Meeting-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Current & Future State of Linux on System z
   sessionDate: 2009-03-03
-  eventName: IBM SHARE Conference
+  eventName: Red Hat Webinar
   sessionAbstract: |
     Session delivered a Red Hat System z business update, RHEL 5.3 updates
     (released 45-60 days prior to this event), and future technology development
     efforts. Technical updates included accelerated in-kernel crypto algorithms
     for IBM z10, SELinux per-package access controls, nv_conntrack subsystem,
     and other kernel topics such as address space randomization.
-  downloadPDF: files/presentations/2009-03-03-SHARE-RHEL-Update.pdf
+  downloadPDF: files/presentations/2009-03-03-RHEL-Update-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: RHEL 5.3 Update for IBM System z
@@ -156,7 +365,7 @@
   sessionAbstract: |
     Technical presentation of the latest s390x/IBM System z related
     features delivered in Red Hat Enterprise Linux 5.3.
-  downloadPDF: files/presentations/2009-01-20-RHEL-5.3-Update-for-System-z.pdf
+  downloadPDF: files/presentations/2009-01-20-RHEL-5.3-Update-for-System-z-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Red Hat System z Update
@@ -166,7 +375,7 @@
     Invited to speak at the IBM Destination z event. Provided an overview
     of Red Hat's System z business, Red Hat partner programs, and updated
     customer success/public references.
-  downloadPDF: files/presentations/2009-01-14-Red-Hat-Destination-z.pdf
+  downloadPDF: files/presentations/2009-01-14-Red-Hat-Destination-z-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Red Hat System z Update
@@ -178,7 +387,7 @@
     the overall IBM/Red Hat relationship, current campaigns/programs,
     quick technical overview of Red Hat's System z capabilities,
     and new customer references to share.
-  downloadPDF: files/presentations/2008-12-2 Red-Hat-System-z-Partner-Update.pdf
+  downloadPDF: files/presentations/2008-12-02-Red-Hat-System-z-Partner-Update-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: "Red Hat Deep Dive Sessions: Linux on System z"
@@ -191,7 +400,7 @@
     s390x features were delivered in the latest releases of Linux,
     provisioning and patching via Red Hat Network Satellite, and
     several security updates (SELinux, audit, etc).
-  downloadPDF: files/presentations/2008-11-13-CAVMEN-LUG-Preso.pdf
+  downloadPDF: files/presentations/2008-11-13-CAVMEN-LUG-Preso-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: "Session ID zLS01: Red Hat Update for IBM System z"
@@ -203,7 +412,7 @@
     SELinux policy. Covered SELinux from the perspective of a system user
     and system administrator. Performed live demo of creating an SELinux
     policy based on errors in syslog.
-  downloadPDF: files/presentations/2008-10-15-zExpo-zLS01-CompleteSecurityWithMainframeLinux.pdf
+  downloadPDF: files/presentations/2008-10-15-zExpo-zLS01-CompleteSecurityWithMainframeLinux-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: "Session ID zQV18: Red Hat Update for IBM System z"
@@ -217,7 +426,7 @@
     <br/><br/>
     Co-presented with <a href="https://www.linkedin.com/in/brad-hinson/" target="_new">
     Brad Hinson</a>, Senior Support Engineering Lead for System z at Red Hat. 
-  downloadPDF: files/presentations/2008-10-14-zExpo-zQV18-RedHatUpdateForSystemZ-INCLUDINGPROMO.pdf
+  downloadPDF: files/presentations/2008-10-14-zExpo-zQV18-RedHatUpdateForSystemZ-INCLUDINGPROMO-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: "Session ID zLP07: Managing your Red Hat Enterprise Linux Guests with RHN Satellite"
@@ -230,7 +439,7 @@
     <br/><br/>
     Co-presented with <a href="https://www.linkedin.com/in/brad-hinson/" target="_new">
     Brad Hinson</a>, Senior Support Engineering Lead for System z at Red Hat. 
-  downloadPDF: files/presentations/2008-10-14 zExpo-zLP07-ManagingYourRedHatEnterpriseLinuxGuestsWithRHNSatellite.pdf
+  downloadPDF: files/presentations/2008-10-14-zExpo-zLP07-ManagingYourRedHatEnterpriseLinuxGuestsWithRHNSatellite-ShawnWells.pdf
   downloadVideo: 
   
 - sessionName: Red Hat Update for System z
@@ -242,12 +451,12 @@
     such as high resolution timers introduced in 2.6.16, updated I/O
     schedules in 2.6.10, filesystem updates to ext3, and several other
     kernel-related topics.
-  downloadPDF: files/presentations/2008-09-09-Interaction.pdf
+  downloadPDF: files/presentations/2008-09-09-Interaction-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Managing your Red Hat Enterprise Linux Guests with RHN Satellite
   sessionDate: 2008-08-14
-  eventName: IBM SHARE Conference
+  eventName: IBM SHARE Orlando
   sessionAbstract: |
     Reviewed Red Hat Network Satellite, Red Hat's modular web-based Linux
     management platform. Stepped through how to perform system updates,
@@ -255,19 +464,19 @@
     <br/><br/>
     Co-presented with <a href="https://www.linkedin.com/in/brad-hinson/" target="_new">
     Brad Hinson</a>, Senior Support Engineering Lead for System z at Red Hat. 
-  downloadPDF: files/presentations/2008-08-14_SHARE_RHN_Satellite_Brad_Hinson.pdf
+  downloadPDF: files/presentations/2008-08-14-SHARE-RHN-Satellite-Brad-Hinson-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: "SELinux: A Key Component in Secure Infrastructures"
   sessionDate: 2008-08-12
-  eventName: IBM SHARE Conference
+  eventName: IBM SHARE Orlando
   sessionAbstract: |
     Why do we need SELinux? What are the principal concepts? Session discussed
     SELinux type enforcement, available policies, and how to write your own
     SELinux policy. Covered SELinux from the perspective of a system user
     and system administrator. Performed live demo of creating an SELinux
     policy based on errors in syslog.
-  downloadPDF: files/presentations/2008-08-12_SHARE_SELinux_Shawn_Wells.pdf
+  downloadPDF: files/presentations/2008-08-12-SHARE-SELinux-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Red Hat Update for System z
@@ -277,7 +486,7 @@
     45 minute update on Red Hat. Spoke about the upstream-to-downstream development
     model, contextualized for s390x kernel development, Red Hat Enterprise Linux 4 (RHEL4)
     and RHEL5 updates. Introduced audience to Security Content Automation Protocol (SCAP).
-  downloadPDF: files/presentations/2008-07-30-T3-Endicott.pdf
+  downloadPDF: files/presentations/2008-07-30-T3-Endicott-Shawn-Wells.pdf
   downloadVideo: 
   
 - sessionName: Red Hat Enterprise Solutions for System z
@@ -288,10 +497,10 @@
     Red Hat Enterprise Linux 5 (RHEL5) for System z update, and
     talk through how to manage Linux on System z instances
     with Red Hat Network Satellite.
-  downloadPDF: files/presentations/2008-07-15-zNTP-2008.pdf
+  downloadPDF: files/presentations/2008-07-15-zNTP-2008-Shawn-Wells.pdf
   downloadVideo: 
   
-- sessionName: Red Hat Enterprise Linux & System z
+- sessionName: "Red Hat Enterprise Linux & System z: How Red Hat uses System z"
   sessionDate: 2008-06-25
   eventName: System z Summer Series at Marist College
   sessionAbstract: |
@@ -299,36 +508,27 @@
     how Red Hat uses System z infrastructure internally. Spoke about Red Hat's
     usage of an IBM zSeries 2094 (z9), zSeries 2084 (z990), and Shark storage,
     and how those systems contribute to the development of Enterprise Linux.
-  downloadPDF: files/presentations/2008-06-25-Marist-POK.pdf
+  downloadPDF: files/presentations/2008-06-25-Marist-POK-Shawn-Wells.pdf
   downloadVideo: 
   
-- sessionName: Red Hat Security Seminar
+- sessionName: Red Hat Technology and Roadmap
   sessionDate: 2008-04-08
   eventName: Lockheed Martin Security Seminar
   sessionAbstract: |
     Invited to speak at Lockheed Martin San Jose to their U.S. Department of Defense
     customers. Topics covered Red Hat security -- from the hypervisor, to APIs, to cryptography
     and PKI.
-  downloadPDF: files/presentations/2008-04-08-LMCO-San-Jose.pdf
+  downloadPDF: files/presentations/2008-04-08-LMCO-San-Jose-Shawn-Wells.pdf
   downloadVideo: 
-  
+
 - sessionName: Red Hat Security Seminar
   sessionDate: 2008-03-06
-  eventName: Harris Corp Security Seminar
-  sessionAbstract: |
-    Invited to return to Harris Corporation for their March 2008 security seminar.
-    Topics covered Red Hat security -- from the hypervisor, to APIs, to cryptography
-    and PKI.
-  downloadPDF: files/presentations/2008-03-06-Harris-Security-Seminar.pdf
-  downloadVideo: 
-  
-- sessionName: Red Hat Security Seminar
-  sessionDate: 2008-02-25
   eventName: Harris Corporation IT Security Seminar
   sessionAbstract: |
-    Invited to speak at an IT conference at the Federal Aviation Administration (FAA).
-    Session introduced audience to Red Hat's middleware portfolio, named JBoss.
-  downloadPDF: "files/presentations/2008-03-06-Harris-Security-Seminar.pdf"
+    Invited to return to Harris Corporation and re-deliver the 23-JAN-2008 session to
+    a wider audience. Topics included Red Hat security roadmap, covering Red Hat's implementation of the Xen hypervisor,
+    libVirt API, security certifications, and SElinux.
+  downloadPDF: "files/presentations/2008-03-06-Harris-Security-Seminar-Shawn-Wells.pdf"
   downloadVideo: 
 
 - sessionName: Remember when we just sold Linux? Intro to Red Hat Middleware
@@ -337,7 +537,7 @@
   sessionAbstract: |
     Invited to speak at an IT conference at the Federal Aviation Administration (FAA).
     Session introduced audience to Red Hat's middleware portfolio, named JBoss.
-  downloadPDF: "files/presentations/2008-02-25 FAA-Conference.pdf"
+  downloadPDF: "files/presentations/2008-02-25-FAA-Conference-Shawn-Wells.pdf"
   downloadVideo: 
 
 - sessionName: Red Hat Overview
@@ -350,7 +550,7 @@
     Co-presented with Mark St Laurent and
     <a href="https://www.linkedin.com/in/michael-brown-1063103/" external="true">Michael Brown</a>
     of Red Hat.
-  downloadPDF: "files/presentations/2008-01-23-CUNY-RHEL-Overview.pdf"
+  downloadPDF: "files/presentations/2008-01-23-CUNY-RHEL-Overview-Shawn-Wells.pdf"
   downloadVideo: 
 
 - sessionName: Red Hat Security Roadmap
@@ -359,5 +559,5 @@
   sessionAbstract: |
     Red Hat security roadmap, covering Red Hat's implementation of the Xen hypervisor,
     libVirt API, security certifications, and SElinux.
-  downloadPDF: files/presentations/2008-01-22-HarrisBriefing.pdf
+  downloadPDF: files/presentations/2008-01-22-Harris-Briefing-Shawn-Wells.pdf
   downloadVideo: ""

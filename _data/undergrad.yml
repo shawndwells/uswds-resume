@@ -1,12 +1,13 @@
-- degreeName: B.S. Cybersecurity and Information Assurance
+- degreeName: B.S. Cybersecurity and Information Assurance [<i>IN PROGRESS</i>]
   schoolName: Western Governors University (WGU)
   schoolLogo: "assets/img/academic-logos/wgu-logo.png"
   schoolURL: https://washingtonexec.com/2019/11/2019-pinnacle-awards-cybersecurity-industry-exec-of-the-year-shawn-wells-red-hat/#.YJiLmqLYpPV
   degreeDescr: |
-    Designed to meet Department of Homeland Security (DHS), and National Security Agency
+    <p>Designed to meet Department of Homeland Security (DHS), and National Security Agency
     (NSA) guidelines, the B.S. Cybersecurity and Information Assurance degree program covered topics
     such as networking and security, web security, cloud security, cryptography, digital
-    forensics, cyber law, IT project management, and penetration testing.<br/><br/>
+    forensics, cyber law, IT project management, and penetration testing.</p>
+    <p>Estimated completion September 2020.</p>
 
 - degreeName: "MicroBachelors™, Information Technology"
   schoolName: Western Governors University (WGU)
@@ -14,7 +15,7 @@
   schoolURL: https://washingtonexec.com/2019/11/2019-pinnacle-awards-cybersecurity-industry-exec-of-the-year-shawn-wells-red-hat/#.YJiLmqLYpPV
   degreeDescr: |
     A pathway to WGU's bachelors of science programs, the MicroBachelors™ contained
-    coursework relating to computer networking, security, scripting, and programming skills.<br/><br/>
+    coursework relating to computer networking, security, scripting, and programming skills.<br/><br/><br/><br/>
 
 - degreeName: Certificate in Project Management
   schoolName: Georgetown University, School of Continuing Studies
